@@ -48,8 +48,8 @@ VulnTerm is a CLI tool designed for **ethical hacking** and **penetration testin
 
 ```bash
 # Clone the repository
-git clone https://github.com/rehuux/terminal-hackbar.git
-cd terminal-hackbar
+git clone https://github.com/rehuux/vulnterm.git
+cd vulnterm
 
 # Install dependencies
 pip install -r requirements.txt
@@ -208,7 +208,7 @@ All scan results are automatically saved to text files in the current directory.
 Report Format:
 
 ```text
-Terminal HackBar Report
+VulnTerm Report
 Author: Syed Rehan (@rehuux)
 Generated: 2025-01-01 12:00:00
 ============================================================
@@ -255,8 +255,8 @@ We welcome contributions! Please read our Contributing Guide.
 Development Setup
 
 ```bash
-git clone https://github.com/rehuux/terminal-hackbar.git
-cd terminal-hackbar
+git clone https://github.com/rehuux/vulnterm.git
+cd vulnterm
 pip install -e .
 pip install pytest
 python -m pytest tests/
@@ -295,7 +295,7 @@ Documentation maintained by Syed Rehan (@rehuux)
 
 ```
 
-terminal-hackbar/
+vulnterm/
 ├── .github/
 │   └── workflows/
 │       └── python-package.yml
