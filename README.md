@@ -172,24 +172,3 @@ Syed Rehan (@rehuux)
 · Built with Python and the open-source community.
 
 ```
-
----
-
-## ✅ README.md Summary
-
-| Section | Content |
-|---------|---------|
-| Badges | License, Python version, PRs welcome |
-| Description | What the tool does |
-| Features | List of features |
-| Quick Start | Installation steps |
-| Usage | Menu and example |
-| Available Tools | Table of tools |
-| Project Structure | Folder layout |
-| Disclaimer | Legal notice |
-| Running Tests | Test commands |
-| Contributing | How to contribute |
-| License | MIT License |
-| Author | REHU credit |
-
----
