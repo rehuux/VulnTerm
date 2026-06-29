@@ -1,0 +1,15 @@
+
+---
+
+### `vulnterm/hackbar/__init__.py`
+
+```python
+"""
+Terminal HackBar - Security Testing Toolkit
+Author: Syed Rehan (@rehuux)
+"""
+
+from .__main__ import main
+
+__version__ = "2.0.0"
+__author__ = "Syed Rehan (@rehuux)"
