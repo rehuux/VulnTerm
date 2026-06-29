@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="terminal-hackbar",
+    name="vulnterm",
     version="2.0.0",
     author="Syed Rehan",
     author_email="rehuonly@aol.com",
